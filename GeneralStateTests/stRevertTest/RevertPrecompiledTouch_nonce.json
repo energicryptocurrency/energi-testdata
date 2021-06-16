@@ -132,7 +132,7 @@
             ],
             "EIP158" : [
                 {
-                    "hash" : "0x9e9ae5e4499c9886cfb977fb65c487bbf9d759e33a836b17ea7d2424200e10f7",
+                    "hash" : "0x6ea53112d08060fb618b7ffbd95e506a1aedadc5be22e014dbd5b070289c810b",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -141,7 +141,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x089961792544ca77dd919e040bbe5eff3b72ce28cf170c523df85adf79421b2f",
+                    "hash" : "0x61fd79b8808fb9cb2a548079aa737d79e00e8bb9e571b50630621f7fdd7cda8c",
                     "indexes" : {
                         "data" : 1,
                         "gas" : 0,
@@ -150,7 +150,7 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
-                    "hash" : "0x9e9ae5e4499c9886cfb977fb65c487bbf9d759e33a836b17ea7d2424200e10f7",
+                    "hash" : "0x6ea53112d08060fb618b7ffbd95e506a1aedadc5be22e014dbd5b070289c810b",
                     "indexes" : {
                         "data" : 2,
                         "gas" : 0,

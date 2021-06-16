@@ -18,7 +18,7 @@
         "post" : {
             "Byzantium" : [
                 {
-                    "hash" : "0x16ffd202e368dc61157e0f816f1bc72aad3322589650a7c2af920c53db7ace74",
+                    "hash" : "0xc2358b43a18e0afb2d87b905401ce4d6b2dcce92e492dc8a220cb7aef27fd035",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -29,7 +29,7 @@
             ],
             "Constantinople" : [
                 {
-                    "hash" : "0x16ffd202e368dc61157e0f816f1bc72aad3322589650a7c2af920c53db7ace74",
+                    "hash" : "0xc2358b43a18e0afb2d87b905401ce4d6b2dcce92e492dc8a220cb7aef27fd035",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -40,7 +40,7 @@
             ],
             "ConstantinopleFix" : [
                 {
-                    "hash" : "0x16ffd202e368dc61157e0f816f1bc72aad3322589650a7c2af920c53db7ace74",
+                    "hash" : "0xc2358b43a18e0afb2d87b905401ce4d6b2dcce92e492dc8a220cb7aef27fd035",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -51,7 +51,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x25f892418fe7e1ae2d2e5ad784206760c69df950cd5e6ad1cad656d6114c2045",
+                    "hash" : "0x6e3adb2d4635e3ea510d687771bc9c446f007955d4f008f2767ea12c99624b62",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
