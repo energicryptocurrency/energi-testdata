@@ -18,7 +18,7 @@
         "post" : {
             "Byzantium" : [
                 {
-                    "hash" : "0x57d85a776f0ed60eb9f8addc94d51c6a4291bd377076fa0f472c3c3e36cf0faa",
+                    "hash" : "0x6450c08f5c21a3b51ca86322fe004a765fa205a1df43a6ae5be27de83823c995",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -29,7 +29,7 @@
             ],
             "Constantinople" : [
                 {
-                    "hash" : "0xa4f4020105760ed846efc82051cedf93db48176c6281428b8cd69cbe02e06e7d",
+                    "hash" : "0x8bb9c918be88e546c6a018a9e3db59b3de8896d8e76840450a1fc9a2926d1906",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -40,7 +40,7 @@
             ],
             "ConstantinopleFix" : [
                 {
-                    "hash" : "0x57d85a776f0ed60eb9f8addc94d51c6a4291bd377076fa0f472c3c3e36cf0faa",
+                    "hash" : "0x6450c08f5c21a3b51ca86322fe004a765fa205a1df43a6ae5be27de83823c995",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -51,7 +51,7 @@
             ],
             "EIP150" : [
                 {
-                    "hash" : "0x0c8f940ac7ccc785ea3269c54e2163015371fe33503a1f8132b978038cd575e1",
+                    "hash" : "0xe76634c99c518614689c2543469608ce3447fbc2063d50726937fc385e7bac77",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -62,7 +62,7 @@
             ],
             "EIP158" : [
                 {
-                    "hash" : "0x57d85a776f0ed60eb9f8addc94d51c6a4291bd377076fa0f472c3c3e36cf0faa",
+                    "hash" : "0x6450c08f5c21a3b51ca86322fe004a765fa205a1df43a6ae5be27de83823c995",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -73,7 +73,7 @@
             ],
             "Frontier" : [
                 {
-                    "hash" : "0x94aa48e4c65f925e0720999909ae372c2a8d0a323188c7836c9acd9de8084d01",
+                    "hash" : "0xe8938e2da127b4515a72cf3ece1fa5b610e15780fd5507aaafed38cee111aa36",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -84,7 +84,7 @@
             ],
             "Homestead" : [
                 {
-                    "hash" : "0x94aa48e4c65f925e0720999909ae372c2a8d0a323188c7836c9acd9de8084d01",
+                    "hash" : "0xe8938e2da127b4515a72cf3ece1fa5b610e15780fd5507aaafed38cee111aa36",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,

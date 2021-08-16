@@ -18,7 +18,7 @@
         "post" : {
             "Byzantium" : [
                 {
-                    "hash" : "0xe9fcb7c8aeb3a2eca513fd41fa5948e750bd53e52d12acd328545570f24c1621",
+                    "hash" : "0xc6690712e992abd7af01df1506cf2dc2887438b2a2cb61a5a1908fb26b73ecd9",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -29,7 +29,7 @@
             ],
             "Constantinople" : [
                 {
-                    "hash" : "0x0fe516c9ce116ea8b52fec495a723685406625a58c8e33dd1ecdcd3be1372a6f",
+                    "hash" : "0x205763ba9f4e1291acfbc173515f4d69c3bb9a00de5a9ea7c85cc0d87b5a28f7",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -40,7 +40,7 @@
             ],
             "ConstantinopleFix" : [
                 {
-                    "hash" : "0xe9fcb7c8aeb3a2eca513fd41fa5948e750bd53e52d12acd328545570f24c1621",
+                    "hash" : "0xc6690712e992abd7af01df1506cf2dc2887438b2a2cb61a5a1908fb26b73ecd9",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
